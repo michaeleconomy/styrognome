@@ -1,0 +1,19 @@
+- @games.each do |game|
+  - path = game['subSite'] || "/#{parameterize(game['title'])}.html"
+  %section.game
+    %a{href: path}
+      %img{src: "/images/#{game['image']}", class: "game-image", alt: game['title']}
+    %p
+      = game['blurb']
+    .links
+      - if game['links']
+        - game['links'].each do |link|
+          %a.btn.btn-primary{href: link['url'], role: "button"}
+            =link['label']
+      %a.btn.btn-primary{href: path, role: "button"}
+        Details
+
+%section
+  %h2 Contact
+  %a{href: "/contact.html", role: "button"}
+    Contact Styrognome Games

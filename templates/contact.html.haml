@@ -1,0 +1,15 @@
+- @title = "Contact"
+- @hide_subscribe = true
+%section
+  %form#contactForm
+    %input(type='hidden' name='g-recaptcha-response')
+    %label.sr-only(for="email")
+    %input.form-control{name:"email", placeholder: "Your email address", required:true, type: "email"}
+    %label.sr-only(for="body")
+    %textarea.form-control{name:"body", placeholder: "Message", required:true, rows: 5}
+    %button(type='submit')
+      Contact Styrognome Games
+  #sending(style="display:none")
+    Sending your message.
+%script(src='https://www.google.com/recaptcha/api.js?render=6LdBBYgUAAAAADy7n4m4jzGFHxgL6D4MLhvELITY')
+%script(src="/contact.js")

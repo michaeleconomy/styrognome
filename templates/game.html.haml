@@ -1,0 +1,22 @@
+- @title = @game['title']
+- @primary_image = "/images/#{@game['image']}"
+%section
+  %img{src: @primary_image, class: "primary-image", alt: @game['title']}
+  - if @game['blurb']
+    %h3
+      = @game['blurb']
+
+  - if @game['links']
+    .links.subsection
+      - @game['links'].each do |link|
+        %a.btn.btn-primary{href: link['url'], role: "button"}
+          = link['label']
+  - if @game['youtube']
+    #video.subsection
+      %iframe(width="560" height="315" src="https://www.youtube.com/embed/#{@game['youtube']}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+  - if @game['description']
+    - @game['description'].split("\n\n").each do |p|
+      %p.lead
+        - p.split("\n").each do |line|
+          = line
+          %br

@@ -1,0 +1,15 @@
+[
+	{
+		"template": "index.html.haml"
+	},
+	{
+		"template": "privacy.html.haml"
+	},
+	{
+		"template": "contact.html.haml"
+	},
+	{
+		"template": "game.html.haml",
+		"foreach": "games"
+	}
+]

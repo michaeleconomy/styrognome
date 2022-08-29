@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Dungeon Friends",
+    "image": "df-carousel.png",
+    "blurb": "Multiplayer 3d sandbox RPG for mobile",
+    "youtube": "EDK1zA81A1c",
+    "links": [
+      {"label": "iOS", "url": "https://apps.apple.com/us/app/dungeon-friends/id1530455824"},
+      {"label": "Android", "url": "https://play.google.com/store/apps/details?id=com.styrognome.df"}
+    ],
+    "subSite": "https://www.dungeonfriends.com",
+    "description": "Play role playing games with your friends anywhere. Dungeons with friends lets you easily set up, GM, and play tabletop style roleplaying games from anywhere on your mobile phone. This virtual table top is designed for asynchronous play - so you don't have to find a time that works for all of your players. Players get a push notification when things happen and to let you know when it's their turn to play. The app implements the open source fifth edition (5e) rule set so that you don't have to spend as much time reading source books, and instead focus on adventuring. The game incorporates low-poly 3d graphics to visualize the virtual world."
+  },
+  {
+    "title": "Stak N Pak",
+    "image": "staknpak-carousel.png",
+    "blurb": "Puzzle game with sliding blocks",
+    "youtube": "DCKalMNCENI",
+    "links": [
+      {"label": "iOS", "url": "https://itunes.apple.com/app/id1460173335?pt=1576343&ct=sgweb&mt=8"},
+      {"label": "Android", "url": "https://play.google.com/store/apps/details?id=com.styrognome.staknpak"}
+    ],
+    "description": "In this simple puzzle game you must slide the blocks left or right to complete lines. Blocks will wall when they are not supported. Lines clear when they are a solid row of blocks. Get the highest score possible before the board overflows."
+  },
+  {
+    "title": "2048 Solitaire",
+    "image": "2048Solitaire-carousel.png",
+    "blurb": "Fun, easy card game with combos",
+    "youtube": "kP8Vc4Q3bOY",
+    "links": [
+      {"label": "iOS", "url": "https://itunes.apple.com/app/id1445963481?pt=1576343&ct=sgweb&mt=8"},
+      {"label": "Android", "url": "https://play.google.com/store/apps/details?id=com.styrognome.solitaire2048"}
+    ],
+    "description": "Stack up cards to make combinations to get points."
+  },
+  {
+    "title": "Doodle Game",
+    "image": "doodle-carousel.png",
+    "blurb": "A social drawing and guessing game.",
+    "links": [
+      {"label": "iOS", "url": "https://itunes.apple.com/app/apple-store/id1347400037?pt=1576343&ct=sgweb&mt=8"}
+    ],
+    "description": "In Doodle Game players take turns passing messages, but every alternating player must either draw a picture of a phrase or guess a phrase based on a picture, after everyone has finished, players can view the resulting (and often hilarious  chain of pictures and guesses. You do not need to be a competent/capable artist to enjoy Doodle Game, misinterpretations are the best part!"
+  },
+  {
+    "title": "Uncrossed",
+    "image": "uncrossed-carousel.png",
+    "blurb": "Uncross the lines in this simple but difficult puzzle.",
+    "links": [
+      {"label": "iOS", "url": "https://itunes.apple.com/app/uncrossed/id1444814753?pt=1576343&ct=sgweb&mt=8"},
+      {"label": "Android", "url": "https://play.google.com/store/apps/details?id=com.styrognome.uncross"}
+    ],
+    "youtube": "eyACqm0XGb0",
+    "description": "In this calming puzzle game you rearrange dots so that none of the connected lines cross \n\n•Difficulty levels from easy to impossible \n•Sharpen your mind with this tricky brain gam \n•Build interesting patterns and design \n•Fun for all ages. (Reinforces geometry and math concepts \n\nCan you solve an impossible puzzle?"
+  },
+  {
+    "title": "GameRankr",
+    "image": "gamerankr-carousel.png",
+    "blurb": "A social site for tracking the video games you play, and seeing what friends are playing",
+    "links": [
+      {"label":"iOS", "url": "https://itunes.apple.com/app/apple-store/id1336135603?pt=1576343&ct=sgweb&mt=8"},
+      {"label":"Website", "url": "https://www.GameRankr.com"}
+    ],
+    "youtube": "uFz_AO0nkZY",
+    "description": "GameRankr is a social site for tracking the video games you play and want to play. GameRankr is Goodreads for video gamers.\n By connecting GameRankr to Facebook you can automatically see what your facebook friends are doing on the site - what games they are adding, what they think of specific titles, and what games they want to play next. With a deep database of tens of thousands of games it's easy to catalog every game you've ever played and wanted to play.\n GameRankr is available via the website www.gamerankr.com and also accessable via the iOS client."
+  },
+  {
+    "title": "Slime Party",
+    "image": "slimeparty-carousel.png",
+    "blurb": "Color matching puzzle game.",
+    "links": [
+      {"label": "iOS", "url": "https://itunes.apple.com/app/id1445358457?pt=1576343&ct=sgweb&mt=8"},
+      {"label": "Android", "url": "https://play.google.com/store/apps/details?id=com.styrognome.slimeparty"}
+    ],
+    "description": "In slime party you match up the colors to get points, and earn desserts. Feed the desserts to the slimes to clear the board.  Simple concept - difficult to get a high score."
+  },
+  {
+    "title": "Dice Roller",
+    "image": "diceroller-carousel.png",
+    "links": [
+      {"label": "iOS", "url": "https://itunes.apple.com/app/apple-store/id1415380223?pt=1576343&ct=sgweb&mt=8"}
+    ],
+    "blurb": "A dice rolling app for iOS with realistic physics and sound.",
+    "description": "This free app lets people roll manysided polyhedral dice from their phone.  Dice Roller is targetted at rollplayers who forgot their dice."
+  },
+  {
+    "title": "Office Workers",
+    "image": "officeworkers-carousel.png",
+    "blurb": "Multiplayer officecore platformer - Abandoned",
+    "youtube": "jloeOtV4X8A",
+    "description": "In this crazy office platformer for 2-4 players, employees complete tasks like making copies and answering phones within a time limit to avoid termination. Increasingly complex objectives make for very entertaining gameplay. Office Workers is inspired by Overcooked, Office Space, The Office, Castlevania, and 90s office culture. Targeting a release on XBox, PC, Mac, and Linux."
+  },
+  {
+    "title": "Bomb Soccer",
+    "image": "bombsoccer-carousel.png",
+    "blurb": "Soccer with bombs",
+    "youtube": "wUDTKjdjv1s",
+    "description": "Bomb Soccer is a 4 player soccer game, but instead of kicking the ball,  players must move the ball with explosions from bombs they drop."
+  }
+]

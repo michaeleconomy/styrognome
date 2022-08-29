@@ -1,0 +1,37 @@
+[
+  {
+    "id": "staknpak",
+    "ios": "https://itunes.apple.com/app/apple-store/id1460173335?pt=1576343&ct=Promo&mt=8",
+    "android": "market://details?id=com.styrognome.staknpak",
+    "profileImage": "https://www.styrognome.com/images/promo/staknpak.png"
+  },
+  {
+    "id": "slimeparty",
+    "ios": "https://itunes.apple.com/app/apple-store/id1445358457?pt=1576343&ct=Promo&mt=8",
+    "android": "market://details?id=com.styrognome.slimeparty",
+    "profileImage": "https://www.styrognome.com/images/promo/slimeparty.png"
+  },
+  {
+    "id": "uncrossed",
+    "ios": "https://itunes.apple.com/app/apple-store/id1444814753?pt=1576343&ct=Promo&mt=8",
+    "android": "market://details?id=com.styrognome.uncross",
+    "profileImage": "https://www.styrognome.com/images/promo/uncrossed.png"
+  },
+  {
+    "id": "doodle",
+    "ios": "https://itunes.apple.com/app/apple-store/id1347400037?pt=1576343&ct=Promo&mt=8",
+    "profileImage": "https://www.styrognome.com/images/promo/doodle.png"
+  },
+  {
+    "id": "gamerankr",
+    "ios": "https://itunes.apple.com/app/apple-store/id1336135603?pt=1576343&ct=Promo&mt=8",
+    "android": "https://www.gamerankr.com",
+    "profileImage": "https://www.styrognome.com/images/promo/gamerankr.png"
+  },
+  {
+    "id": "2048solitaire",
+    "ios": "https://itunes.apple.com/app/apple-store/id1445963481?pt=1576343&ct=Promo&mt=8",
+    "android": "market://details?id=com.styrognome.solitaire2048",
+    "profileImage": "https://www.styrognome.com/images/promo/2048solitaire.png"
+  }
+]
