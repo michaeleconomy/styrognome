@@ -1,5 +1,17 @@
 [
   {
+    "title": "Tomb of Trials",
+    "image": "tomb_of_trials.png",
+    "blurb": "3d Puzzle/Platformer for PC and Mac",
+    "youtube": "EDK1zA81A1c",
+    "links": [
+      {"label": "PC", "url": "https://vectordyne.itch.io/tomb-of-trials"},
+      {"label": "Mac", "url": "https://vectordyne.itch.io/tomb-of-trials"}
+    ],
+    "subSite": "https://vectordyne.itch.io/tomb-of-trials",
+    "description": ""
+  },
+  {
     "title": "Dungeon Friends",
     "image": "df-carousel.png",
     "blurb": "Multiplayer 3d sandbox RPG for mobile",
